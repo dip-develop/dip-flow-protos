@@ -6,11 +6,11 @@
 
 ## Links
 
-#### [WIKI](https://github.com/dip-develop/dip-flow-wiki)
-
-#### [Backend](https://github.com/dip-develop/dip-flow-backend)
+#### [WIKI](https://github.com/dip-develop/dip-flow)
 
 #### [Frontend](https://github.com/dip-develop/dip-flow-frontend)
+
+#### [Backend](https://github.com/dip-develop/dip-flow-backend)
 
 ## Sponsoring
 
